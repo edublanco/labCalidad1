@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1598572486 source:d:\edublanc\7mosemestrecarrera\helloworld\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
